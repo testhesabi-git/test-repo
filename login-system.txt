@@ -1,1 +1,2 @@
 login islemleri tamamlandi
+hatalar düzeltildi
